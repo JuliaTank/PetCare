@@ -20,6 +20,7 @@ Should have:
 2. As a user I want to be able to search the offer using its ID or Title
 3. As a user I want to filter offers by types/species
 4. As a owner I want to edit the offer 
+5. As a oowner I want to see all my offers in one place
 
 Could have:
 1. As a user I want to sign up 
