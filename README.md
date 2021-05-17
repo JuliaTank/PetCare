@@ -7,6 +7,8 @@ Hotels for pets are usually very expensive and filled with different animals wha
 ready to offer their time to take care of a pet for a small charge. Therefore, application is aimed into two groups of people: owners and caretakers. 
 The main purpose of the application is to get them in touch.
 
+Video presentation: https://youtu.be/XpLmnLtbyCQ
+
 Requirements
 Must have:
 1. As an owner I want to post offer about taking care of my pet including description, picture, price, period of time and contact information. DONE
