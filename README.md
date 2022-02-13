@@ -21,7 +21,7 @@ Must have:
 Should have:
 1. As an owner I want my contact data to be vivible only to logged users. DONE
 2. As a user I want to be able to search the offer using its Localization or Title. DONE
-3. As a user I want to filter offers by types/species. NOT DONE
+3. As a user I want to filter offers by types/species.DONE
 4. As a owner I want to edit the offer. NOT DONE
 5. As a oowner I want to see all my offers in one place. DONE
 
