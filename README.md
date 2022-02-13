@@ -3,11 +3,9 @@ Android Application Project
 
 Application for people looking for someone to take care of their pet while they are not able to and for people who love pets and would like to take care of them
 as well as earn little pocket money. Owners are posting details of their pet, period of time to take care of it and price they are ready to pay for this service.
-Hotels for pets are usually very expensive and filled with different animals what makes it hard for owners of difficult pets to find proper one while there'sa lot of people
+Hotels for pets are usually very expensive and filled with different animals what makes it hard for owners of difficult pets to find proper one while there's a lot of people
 ready to offer their time to take care of a pet for a small charge. Therefore, application is aimed into two groups of people: owners and caretakers. 
 The main purpose of the application is to get them in touch.
-
-Video presentation: https://youtu.be/XpLmnLtbyCQ
 
 Requirements
 Must have:
