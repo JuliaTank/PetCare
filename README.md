@@ -1,11 +1,11 @@
 # PetCare
-Android Application Project
+Android Application Project - Android dev course VIA University Collage 
 
-Application for people looking for someone to take care of their pet while they are not able to and for people who love pets and would like to take care of them
-as well as earn little pocket money. Owners are posting details of their pet, period of time to take care of it and price they are ready to pay for this service.
-Hotels for pets are usually very expensive and filled with different animals what makes it hard for owners of difficult pets to find proper one while there's a lot of people
-ready to offer their time to take care of a pet for a small charge. Therefore, application is aimed into two groups of people: owners and caretakers. 
-The main purpose of the application is to get them in touch.
+Introducing an application that connects pet owners in need of caretakers and individuals who adore pets and wish to earn some extra money. This platform allows owners to post information about their pets, the duration of care required, and the price they are willing to pay for the service.
+
+Traditional pet hotels tend to be expensive and accommodate a variety of animals, making it challenging for owners of particular or challenging pets to find suitable options. However, there are many people eager to dedicate their time to caring for pets in exchange for a reasonable fee. This application aims to bridge the gap between these two groups: owners and caretakers.
+
+The primary objective of this application is to facilitate connections between pet owners and caretakers, ensuring that pets receive the care they need while owners are unavailable.
 
 Requirements
 Must have:
